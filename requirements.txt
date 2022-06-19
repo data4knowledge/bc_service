@@ -1,0 +1,5 @@
+deta
+fastapi
+pydantic
+py2neo
+fastapi-pagination
